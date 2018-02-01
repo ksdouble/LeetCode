@@ -1,2 +1,2 @@
-# LeetCode
-For study
+# LeetCode (C)
+For study   
